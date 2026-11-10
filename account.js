@@ -6,7 +6,7 @@ var website_name = "AR TOPUP BD 24";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/apon_x_live420";
+var telegram_channel_link = "https://t.me/apon_x_live";
 
 // =======================================================
 // TELEGRAM GROUP LINK
